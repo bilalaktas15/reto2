@@ -5,4 +5,18 @@ Ejemplo: `git commit -m "Added Readme.md`
 
 4- Si quisieramos conectar este proyecto a un repositorio remojo como uno de Github deberíamos obtener la url de este repositorio
 `git remote add origin https://github.com/{{cuenta}}/{{repositorio}}.git`
-5- Una vez conectado podemos hacer `git push`
+5- Una vez conectado podemos hacer `git push`   
+
+
+
+
+
+
+
+
+
+
+// reto 4
+
+
+1- Yo cree la carpeta .gitignore para ignorar la carpeta reto2 y subi los cambios en mi repositorio
